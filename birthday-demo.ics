@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Birthday Demo//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:birthday-demo@example.invalid
+DTSTAMP:20300101T000000Z
+DTSTART:20300101T180000Z
+DTEND:20300101T220000Z
+SUMMARY:Cumpleaños · Evento de ejemplo
+LOCATION:Lugar por confirmar
+DESCRIPTION:Evento ficticio de demostración. No es una invitación real.
+END:VEVENT
+END:VCALENDAR
